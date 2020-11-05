@@ -1,0 +1,17 @@
+@font-face {
+	font-family: 'Nikkyou Sans';
+	src:
+		url('https://orca-jp.github.io/customFont/NikkyouSans-B6aV.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'SAP Fiori Icons';
+	src:
+		url('https://orca-jp.github.io/customFont/SAP-icons.woff2') format('woff2'),
+		url('https://orca-jp.github.io/customFont/SAP-icons.woff') format('woff'),
+		url('https://orca-jp.github.io/customFont/SAP-icons.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
